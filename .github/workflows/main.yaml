@@ -1,4 +1,3 @@
-# .github/workflows/use-composite.yml
 name: Use Composite Action
 on: [push]
 
