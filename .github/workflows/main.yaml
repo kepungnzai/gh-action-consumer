@@ -11,7 +11,7 @@ jobs:
 
       - name: Use Greeting Action
         id: greet
-        uses: kepungnzai/gh-action-core/.github/action/greet-action@main
+        uses: kepungnzai/gh-action-core/.github/actions/greet-action@main
         with:
           name: Alice
 
